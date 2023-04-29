@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449451494245",
+    "project_id": "pemo-auth",
+    "storage_bucket": "pemo-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449451494245:android:1e5de64ba2cca9e093ef8c",
+        "android_client_info": {
+          "package_name": "com.example.pemo_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449451494245-92a2p4bfrbs0vqpc899nnerdtgn98afc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85tLj-sRLLh13gVsv6xnxzZTdPUswXKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449451494245-92a2p4bfrbs0vqpc899nnerdtgn98afc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
